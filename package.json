@@ -1,0 +1,17 @@
+{
+  "name": "meadowlark-travel",
+  "version": "1.0.0",
+  "main": "helloworld.js",
+  "type": "commonjs",
+  "scripts": {
+    "dev": "nodemon helloworld.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Yevhenii Pozniak <jekamanu@gmail.com>",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
