@@ -1,11 +1,11 @@
 {
-  "name": "meadowlark-travel",
+  "name": "ch02",
   "version": "1.0.0",
   "main": "helloworld.js",
   "type": "commonjs",
   "scripts": {
     "dev": "nodemon helloworld.js",
-    "start": "node index.js"
+    "start": "node helloworld.js"
   },
   "keywords": [],
   "author": "Yevhenii Pozniak <jekamanu@gmail.com>",
